@@ -1,0 +1,15 @@
+virtualenv
+MyFIrstPythonFile.py
+.DS_Store
+tensorflow/
+data/tmp/
+data/videos/
+data/cyrille
+*.npz
+*.pyc
+env.py
+logs/
+data/incorrectClassifications/*.jpg
+data/webcam/
+data/IR/
+data/images/classify/
